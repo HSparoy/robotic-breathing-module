@@ -38,7 +38,7 @@ The slider block moves vertically and carries a support stem, which lifts and lo
 
 ## Design Notes
 
-This is a concept model intended to communicate mechanism layout and motion conversion rather than a production-ready design. The model was developed to show practical CAD work, linkage design, guided motion, and subsystem thinking relevant to robotic and electromechanical product development.
+This is a concept model intended to communicate mechanism layout and motion conversion rather than a production-ready design. The model was developed to show practical CAD work, linkage design, guided motion, and subsystem thinking relevant to robotic and electromechanical product development. No physical prototype or force analysis was performed; the project focuses on conceptual mechanism layout and motion understanding.
 
 ## Files
 
